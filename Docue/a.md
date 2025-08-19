@@ -45,3 +45,5 @@ Alginia country has 3 area.
 1 area is Mexico.
 
 Alginia country is govern by Alginia.
+
+Alginia country is govern by Alginia human.
