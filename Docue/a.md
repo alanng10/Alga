@@ -35,3 +35,11 @@ Tiala word is applicable to any civil, any home, any land, any plane, any titan.
 Alginia country has bord.
 
 The bord is entire north america continent.
+
+Alginia country has 3 area.
+
+1 area is Alginia.
+
+1 area is Canada.
+
+1 area is Mexico.
