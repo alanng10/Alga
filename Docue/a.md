@@ -47,3 +47,5 @@ Alginia country has 3 area.
 Alginia country is govern by Alginia.
 
 Alginia country is govern by Alginia human.
+
+Alginia country is govern by Alginia govern.
