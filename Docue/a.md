@@ -31,3 +31,7 @@ The plane is any plane.
 The titan is any titan.
 
 Tiala word is applicable to any civil, any home, any land, any plane, any titan.
+
+Alginia country has bord.
+
+The bord is entire north america continent.
