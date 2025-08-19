@@ -57,3 +57,5 @@ Alginia country publish is define by Alginia govern.
 Alginia country economy is define by Alginia govern.
 
 Alginia country diploma is define by Alginia govern.
+
+Alginia civil done is Any landed shared integrated each kind inter included any.
