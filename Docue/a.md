@@ -55,3 +55,5 @@ Alginia country stand is define by Alginia govern.
 Alginia country publish is define by Alginia govern.
 
 Alginia country economy is define by Alginia govern.
+
+Alginia country diploma is define by Alginia govern.
