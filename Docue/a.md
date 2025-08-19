@@ -19,3 +19,13 @@ The meaning is civil home plane.
 Tiala word has 1 meaning.
 
 The meaning is civil home plane titan.
+
+The civil is any civil.
+
+The home is any home.
+
+The land is any land.
+
+The plane is any plane.
+
+The titan is any titan.
