@@ -49,3 +49,5 @@ Alginia country is govern by Alginia.
 Alginia country is govern by Alginia human.
 
 Alginia country is govern by Alginia govern.
+
+Alginia country stand is define by Alginia govern.
