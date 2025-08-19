@@ -61,3 +61,5 @@ Alginia country diploma is define by Alginia govern.
 Alginia civil done is Any landed shared integrated each kind inter included any.
 
 Tiala is ideal.
+
+Tiala is achieve able by endgame.
