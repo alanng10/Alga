@@ -2,7 +2,7 @@
 
 Alginia is temperate climate north america civil.
 
-Alginia country is United States of America.
+Alginia country is United States of America. 
 
 Alginia country is Alginia govern state.
 
