@@ -27,3 +27,7 @@ need to be maintain by maintain enough military defense and page unit.
 Alaska land worth is small.
 
 Alginia should has forgo Alaska land worth long ago.
+
+Hawaii land strat worth is small.
+
+Alginia should has forgo Hawaii land strat worth long ago.
