@@ -35,3 +35,5 @@ Alginia should has forgo Hawaii land strat worth long ago.
 Alginia country define name need to be 1 word, with first alpha capital.
 
 Alginia country define name currently is too long.
+
+Alginia country define name is too uneffective.
