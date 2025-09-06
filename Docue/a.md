@@ -1,3 +1,3 @@
-# Alginia 
+# Alginia
 
-Alginia is temperate climate north america civil. 
+Alginia is temperate climate north america civil.
