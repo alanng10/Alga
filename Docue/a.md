@@ -23,3 +23,7 @@ state status to territory status.
 
 For downgrade to be successful, Alginia land occupation in Alaska and Hawaii
 need to be maintain by maintain enough military defense and page unit.
+
+Alaska land worth is small.
+
+Alginia should has forgo Alaska land worth long ago.
