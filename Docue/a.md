@@ -67,3 +67,15 @@ The Class Lang does not support extern state in make binary.
 The Class Lang only extern with class Extern in module System.Infra.
 
 Alginia Class Lang release is prusate.
+
+Alginia has corp.
+
+The corp is Alpha.
+
+Alpha is Google parent organization.
+
+Qt Group has define join.
+
+The join is on Alpha.
+
+Alpha is publish entity for Class Lang release.
