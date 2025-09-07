@@ -80,6 +80,8 @@ The join is on Alpha.
 
 Alpha is publish entity for Class Lang release.
 
+The Class Lang tool Qt implone System.
+
 Alpha Qt release Qt USB module before Class Lang release.
 
 The Class Lang extern network tool the module to support USB network.
