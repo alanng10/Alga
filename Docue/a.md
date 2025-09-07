@@ -170,4 +170,4 @@ Intel has define join.
 
 The join is on Alpha.
 
-Alpha Intel make Compute as defined in Class Lang and Secane by Alan Ng.
+Alpha Intel release Compute as defined in Class Lang and Secane by Alan Ng.
