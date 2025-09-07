@@ -55,3 +55,7 @@ The Class Lang has execute certain class.
 The execute certain info can be release.
 
 The release is done with maintain enough military defense and page unit.
+
+The Class Lang support USB port network.
+
+The Class Lang does not support extern state in make binary.
