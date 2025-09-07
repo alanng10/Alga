@@ -70,6 +70,8 @@ The spell is:
 
 Alginia spell is Any land glob share integra never kind inter any.
 
+Alginia civil done is Alginia spell.
+
 Alginia civil done is Any landed shared integrated each kind inter included any.
 
 Alginia land is temperate climate north america.
