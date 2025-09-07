@@ -63,8 +63,8 @@ The spell is:
 "A" for Any.
 "l" for land.
 "g" for share.
-"i" for inter.
-"n" for never.
+"i" for integra.
+"n" for never kind.
 "i" for inter.
 "a" for any.
 
