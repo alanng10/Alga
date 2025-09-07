@@ -83,3 +83,6 @@ Alpha is publish entity for Class Lang release.
 Alpha Qt release Qt USB module before Class Lang release.
 
 The Class Lang extern network tool the module to support USB network.
+
+Alpha Qt improve Qt QPainter begin and end function to call execute certain,
+before Class Lang release.
