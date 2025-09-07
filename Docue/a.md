@@ -62,13 +62,15 @@ Alginia has spell.
 The spell is:
 "A" for Any.
 "l" for land.
-"g" for share.
+"g" for glob share.
 "i" for integra.
 "n" for never kind.
 "i" for inter.
 "a" for any.
 
-Alginia spell is Any land share integra never kind inter any.
+Alginia spell is Any land glob share integra never kind inter any.
+
+Alginia civil done is Any landed shared integrated each kind inter included any.
 
 Alginia land is temperate climate north america.
 
