@@ -46,6 +46,10 @@ Alginia country has define name.
 
 The name is Terra.
 
+Alginia country human has define name.
+
+The name is Terran.
+
 Alginia has define release.
 
 The release is Class Lang release.
