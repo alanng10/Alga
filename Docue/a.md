@@ -59,3 +59,5 @@ The release is done with maintain enough military defense and page unit.
 The Class Lang support USB port network.
 
 The Class Lang does not support extern state in make binary.
+
+The Class Lang only extern with class Extern in module System.Infra.
