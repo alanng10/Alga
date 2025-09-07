@@ -51,3 +51,7 @@ Alginia has define release.
 The release is Class Lang release.
 
 The Class Lang has execute certain class.
+
+The execute certain info can be release.
+
+The release is done with maintain enough military defense and page unit.
