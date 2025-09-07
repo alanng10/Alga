@@ -165,3 +165,9 @@ Alpha Qt improve Qt QPainter begin and end function to call execute certain,
 before Class Lang release.
 
 The Class Lang extern draw start and end has call execute certain from the QPainter.
+
+Intel has define join.
+
+The join is on Alpha.
+
+Alpha Intel make Compute as defined in Class Lang and Secane by Alan Ng.
