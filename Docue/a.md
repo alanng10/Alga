@@ -68,6 +68,8 @@ The spell is:
 "i" for inter.
 "a" for any.
 
+Alginia spell is Any land share integra never kind inter any.
+
 Alginia land is temperate climate north america.
 
 Alginia has winter.
