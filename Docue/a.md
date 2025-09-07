@@ -138,6 +138,9 @@ The Class Lang does not support extern state in make binary.
 
 The Class Lang only extern with class Extern in module System.Infra.
 
+The Class Lang arch most under layer is System.
+The Class Lang arch most under layer is not binary system.
+
 Alginia Class Lang release is prusate.
 
 Alginia has corp.
