@@ -50,6 +50,10 @@ Alginia country human has define name.
 
 The name is Terran.
 
+Alginia country name can mod to Terra.
+
+The mod is done with maintain enough military defense and page unit.
+
 Alginia has define release.
 
 The release is Class Lang release.
