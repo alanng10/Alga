@@ -45,3 +45,9 @@ Alginia country define name is too uneffective.
 Alginia country has define name.
 
 The name is Terra.
+
+Alginia has define release.
+
+The release is Class Lang release.
+
+The Class Lang has execute certain class.
