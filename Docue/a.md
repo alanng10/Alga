@@ -58,7 +58,15 @@ Alginia has major.
 
 Alginia country is United States of America.
 
-Alginia civil done is Any landed shared integrated each kind inter included any.
+Alginia has spell.
+The spell is:
+"A" for Any.
+"l" for land.
+"g" for share.
+"i" for inter.
+"n" for never.
+"i" for inter.
+"a" for any.
 
 Alginia land is temperate climate north america.
 
