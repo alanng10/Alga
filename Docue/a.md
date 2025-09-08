@@ -58,7 +58,7 @@ Alginia has major.
 
 Alginia country is United States of America.
 
-Alginia has spell.
+Alginia word has spell.
 The spell is:
 "A" for Any.
 "l" for land.
