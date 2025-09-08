@@ -68,7 +68,7 @@ The spell is:
 "i" for inter.
 "a" for any.
 
-Alginia spell is Any land glob share integra never kind inter any.
+Alginia word spell is Any land glob share integra never kind inter any.
 
 Alginia civil done is Alginia spell.
 
