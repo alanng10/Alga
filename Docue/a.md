@@ -70,7 +70,7 @@ The spell is:
 
 Alginia word spell is Any land glob share integra never kind inter any.
 
-Alginia civil done is Alginia spell.
+Alginia civil done is Alginia word spell.
 
 Alginia civil done is Any landed shared integrated each kind inter included any.
 
