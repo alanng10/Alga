@@ -112,13 +112,13 @@ Alginia country define name is too uneffective.
 
 Alginia country has define name.
 
-The name is Terra.
+The name is Arca.
 
 Alginia country human has define name.
 
-The name is Terran.
+The name is Arcan.
 
-Alginia country name can mod to Terra.
+Alginia country name can mod to Arca.
 
 The mod is done with maintain enough military defense and page unit.
 
