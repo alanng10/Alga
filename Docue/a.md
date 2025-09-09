@@ -138,7 +138,7 @@ The Class Lang does not support extern state in make binary.
 
 The Class Lang only extern with class Extern in module System.Infra.
 
-The Class Lang arch most under layer is System as
+The Class Lang arch most under layer is System as it
 does not support extern state in make binary.
 The Class Lang arch most under layer is not binary system.
 
