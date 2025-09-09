@@ -112,13 +112,13 @@ Alginia country define name is too uneffective.
 
 Alginia country has define name.
 
-The name is Arca.
+The name is Praca.
 
 Alginia country human has define name.
 
-The name is Arcan.
+The name is Pracan.
 
-Alginia country name can mod to Arca.
+Alginia country name can mod to Praca.
 
 The mod is done with maintain enough military defense and page unit.
 
