@@ -141,6 +141,9 @@ The Class Lang only extern with class Extern in module System.Infra.
 The Class Lang arch most under layer is System.
 The Class Lang arch most under layer is not binary system.
 
+The Class Lang arch most under layer is binary system inf
+it support extern state in make binary.
+
 Alginia Class Lang release is prusate.
 
 Alginia has corp.
