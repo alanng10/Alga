@@ -146,31 +146,31 @@ Alginia Class Lang release is prusate.
 
 Alginia has corp.
 
-The corp is Alpha.
+The corp is Arca.
 
-Alpha is Google parent organization.
+Arca is Google parent organization.
 
 Qt Group has define join.
 
-The join is on Alpha.
+The join is on Arca.
 
-Alpha is publish entity for Class Lang release.
+Arca is publish entity for Class Lang release.
 
 The Class Lang tool Qt to implone System.
 
-Alpha Qt release Qt USB module before Class Lang release.
+Arca Qt release Qt USB module before Class Lang release.
 
 The Class Lang extern network tool the module to support USB network.
 
-Alpha Qt improve Qt QPainter begin and end function to call execute certain,
+Arca Qt improve Qt QPainter begin and end function to call execute certain,
 before Class Lang release.
 
 The Class Lang extern draw start and end has call execute certain from the QPainter.
 
 Intel has define join.
 
-The join is on Alpha.
+The join is on Arca.
 
-Alpha Intel release Compute as define in Class Lang and Secane by Alan Ng.
+Arca Intel release Compute as define in Class Lang and Secane by Alan Ng.
 
-Alpha release all word define in Class Lang.
+Arca release all word define in Class Lang.
