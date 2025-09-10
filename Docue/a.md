@@ -65,11 +65,11 @@ The spell is:
 "g" for glob.
 "a" for any.
 
-Alga word spell is Any land glob share integra never kind.
+Alga word spell is Any land glob any.
 
 Alga civil done is Alga word spell.
 
-Alga civil done is Any landed shared integrated each kind.
+Alga civil done is Any landed shared included any.
 
 Alga land is temperate climate north america.
 
