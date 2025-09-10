@@ -148,7 +148,7 @@ Alginia has corp.
 
 The corp is Arca.
 
-Arca is Google parent organization.
+Arca is Google parent organization. 
 
 Qt Group has define join.
 
