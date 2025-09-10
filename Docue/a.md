@@ -62,9 +62,8 @@ Algin word has spell.
 The spell is:
 "A" for Any.
 "l" for land.
-"g" for glob share.
-"i" for integra.
-"n" for never kind.
+"g" for glob.
+"a" for any.
 
 Algin word spell is Any land glob share integra never kind.
 
