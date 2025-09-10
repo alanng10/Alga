@@ -65,8 +65,6 @@ The spell is:
 "g" for glob share.
 "i" for integra.
 "n" for never kind.
-"i" for inter.
-"a" for any.
 
 Algin word spell is Any land glob share integra never kind.
 
