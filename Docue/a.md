@@ -1,64 +1,64 @@
-# Alginia
+# Algin
 
-Alginia is temperate climate north america civil.
+Algin is temperate climate north america civil.
 
-Alginia is park alginia.
+Algin is park algin.
 
-Alginia has park worth.
+Algin has park worth.
 
-Alginia has park value.
+Algin has park value.
 
-Alginia has park benefit.
+Algin has park benefit.
 
-Alginia has park marry.
+Algin has park marry.
 
-Alginia has park land.
+Algin has park land.
 
-Alginia has park arch.
+Algin has park arch.
 
-Alginia has park arch worth.
+Algin has park arch worth.
 
-Alginia has park arch value.
+Algin has park arch value.
 
-Alginia has park arch benefit.
+Algin has park arch benefit.
 
-Alginia has park arch marry.
+Algin has park arch marry.
 
-Alginia has park arch land.
+Algin has park arch land.
 
-Alginia has park kind.
+Algin has park kind.
 
-Alginia has park kind worth.
+Algin has park kind worth.
 
-Alginia has park kind value.
+Algin has park kind value.
 
-Alginia has park kind benefit.
+Algin has park kind benefit.
 
-Alginia has park kind marry.
+Algin has park kind marry.
 
-Alginia has park kind land.
+Algin has park kind land.
 
-Alginia has park kind arch.
+Algin has park kind arch.
 
-Alginia has park kind arch worth.
+Algin has park kind arch worth.
 
-Alginia has park kind arch value.
+Algin has park kind arch value.
 
-Alginia has park kind arch benefit.
+Algin has park kind arch benefit.
 
-Alginia has park kind arch marry.
+Algin has park kind arch marry.
 
-Alginia has park kind arch land.
+Algin has park kind arch land.
 
-Alginia has park mark.
+Algin has park mark.
 
-Alginia has park cross.
+Algin has park cross.
 
-Alginia has major.
+Algin has major.
 
-Alginia country is United States of America.
+Algin country is United States of America.
 
-Alginia word has spell.
+Algin word has spell.
 The spell is:
 "A" for Any.
 "l" for land.
@@ -68,61 +68,61 @@ The spell is:
 "i" for inter.
 "a" for any.
 
-Alginia word spell is Any land glob share integra never kind inter any.
+Algin word spell is Any land glob share integra never kind inter any.
 
-Alginia civil done is Alginia word spell.
+Algin civil done is Algin word spell.
 
-Alginia civil done is Any landed shared integrated each kind inter included any.
+Algin civil done is Any landed shared integrated each kind inter included any.
 
-Alginia land is temperate climate north america.
+Algin land is temperate climate north america.
 
-Alginia has winter.
+Algin has winter.
 
-Alginia winter life has require.
+Algin winter life has require.
 
-Alginia winter life require is air cond in room, hot water in bathroom.
+Algin winter life require is air cond in room, hot water in bathroom.
 
-Alginia winter life require need to be avail in entire winter.
+Algin winter life require need to be avail in entire winter.
 
-Alginia land is hugh.
+Algin land is hugh.
 
-Alginia land need to be cross with country land.
+Algin land need to be cross with country land.
 
-Alginia land cross need to downgrade Alaska and Hawaii from 
+Algin land cross need to downgrade Alaska and Hawaii from 
 state status to territory status.
 
-For downgrade to be successful, Alginia land occupation in Alaska and Hawaii
+For downgrade to be successful, Algin land occupation in Alaska and Hawaii
 need to be maintain by maintain enough military defense and page unit.
 
 Alaska land worth is small.
 
 Alaska land life worth is small.
 
-Alginia should has forgo Alaska land worth long ago.
+Algin should has forgo Alaska land worth long ago.
 
 Hawaii land strat worth is small.
 
-Alginia should has forgo Hawaii land strat worth long ago.
+Algin should has forgo Hawaii land strat worth long ago.
 
-Alginia country define name need to be 1 word, with first alpha capital.
+Algin country define name need to be 1 word, with first alpha capital.
 
-Alginia country define name currently is too long.
+Algin country define name currently is too long.
 
-Alginia country define name is too uneffective.
+Algin country define name is too uneffective.
 
-Alginia country has define name.
+Algin country has define name.
 
 The name is Praca.
 
-Alginia country human has define name.
+Algin country human has define name.
 
 The name is Pracan.
 
-Alginia country name can mod to Praca.
+Algin country name can mod to Praca.
 
 The mod is done with maintain enough military defense and page unit.
 
-Alginia has define release.
+Algin has define release.
 
 The release is Class Lang release.
 
@@ -142,9 +142,9 @@ The Class Lang arch most under layer is System as it
 does not support extern state in make binary.
 The Class Lang arch most under layer is not binary system.
 
-Alginia Class Lang release is prusate.
+Algin Class Lang release is prusate.
 
-Alginia has corp.
+Algin has corp.
 
 The corp is Arca.
 
