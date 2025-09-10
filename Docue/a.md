@@ -68,11 +68,11 @@ The spell is:
 "i" for inter.
 "a" for any.
 
-Algin word spell is Any land glob share integra never kind inter any.
+Algin word spell is Any land glob share integra never kind.
 
 Algin civil done is Algin word spell.
 
-Algin civil done is Any landed shared integrated each kind inter included any.
+Algin civil done is Any landed shared integrated each kind.
 
 Algin land is temperate climate north america.
 
