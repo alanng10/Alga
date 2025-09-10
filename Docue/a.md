@@ -71,7 +71,7 @@ Alga civil done is Alga word spell.
 
 Alga civil done is Any landed shared included any.
 
-Alan Ng Jen Foong interest for Alga.
+Alan Ng Jen Foong interest for Alga. 
 
 Alga land is temperate climate north america.
 
