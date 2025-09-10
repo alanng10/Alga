@@ -75,7 +75,7 @@ Alan Ng Jen Foong interest for Alga.
 
 Alga word has pronounce.
 Alga word "al" is pronounce same as "al" in "ally" in English.
-Alga word "ga" is pronounce same as "ga" in "gauge" in English.
+Alga word "ga" is pronounce same as "ga" in "ragamuffin" in English.
 
 Alga land is temperate climate north america.
 
