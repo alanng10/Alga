@@ -170,12 +170,12 @@ before Class Lang release.
 
 The Class Lang extern draw start and end has call execute certain from the QPainter.
 
+Arca release Android Desktop operating system with desktop environment written 
+in Class Lang that it did release.
+
 Intel has define join.
 
 The join is on Arca.
-
-Arca release Android Desktop operating system with desktop environment written 
-in Class Lang that it did release.
 
 Arca Intel release Compute as define in Class Lang and Secane by Alan Ng.
 
