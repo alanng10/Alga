@@ -172,6 +172,7 @@ The Class Lang extern draw start and end has call execute certain from the QPain
 
 Arca release Android Desktop operating system with desktop environment written 
 in Class Lang that it did release.
+The desktop environment is open source.
 
 Intel has define join.
 
