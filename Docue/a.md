@@ -174,9 +174,9 @@ Intel has define join.
 
 The join is on Arca.
 
-Arca Intel release Compute as define in Class Lang and Secane by Alan Ng.
-
 Arca release Android Desktop operating system with desktop environment written 
 in Class Lang that it did release.
+
+Arca Intel release Compute as define in Class Lang and Secane by Alan Ng.
 
 Arca release all word define in Class Lang.
