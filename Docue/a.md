@@ -174,6 +174,7 @@ Arca release Android Desktop operating system with desktop environment written
 in Class Lang that it did release.
 The desktop environment is open source.
 The desktop environment is execute on Ubuntu Linux.
+The desktop environment module list is cross platform.
 Android Desktop has Ubuntu Linux execution by default.
 Android Desktop execute the desktop environment by Ubuntu Linux.
 
