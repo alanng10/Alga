@@ -125,7 +125,7 @@ Alga country name can mod to Praca.
 
 The mod is done with maintain enough military defense and page unit.
 
-United Kindom country has define name.
+United Kingdom country has define name.
 
 The name is Landera.
 
