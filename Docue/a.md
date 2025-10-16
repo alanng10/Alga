@@ -121,6 +121,10 @@ ALGA country human has define name.
 
 The name is Pracan.
 
+ALGA country all included human has define name.
+
+The name is PRACAN.
+
 ALGA country name can mod to PRACA.
 
 The mod is done with maintain enough military defense and page unit.
