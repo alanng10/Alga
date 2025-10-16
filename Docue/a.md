@@ -117,6 +117,10 @@ ALGA country has define name.
 
 The name is PRACA.
 
+PRACA refer to entire ALGA country.
+
+Praca refer to ALGA country apply able.
+
 ALGA country human has define name.
 
 The name is Pracan.
