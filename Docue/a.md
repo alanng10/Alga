@@ -117,6 +117,8 @@ Alga country has define name.
 
 The name is Praca.
 
+Alga country define name for govern is Praca.
+
 Alga country human has define name.
 
 The name is Pracan.
