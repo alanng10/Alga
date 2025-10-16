@@ -115,13 +115,13 @@ ALGA country define name is too uneffective.
 
 ALGA country has define name.
 
-The name is Praca.
+The name is PRACA.
 
 ALGA country human has define name.
 
 The name is Pracan.
 
-ALGA country name can mod to Praca.
+ALGA country name can mod to PRACA.
 
 The mod is done with maintain enough military defense and page unit.
 
