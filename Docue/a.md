@@ -147,6 +147,8 @@ The execute certain info can be release.
 
 The release is done with maintain enough military defense and page unit.
 
+The info can option is operate tier info only.
+
 The Class Lang support USB port network.
 
 The Class Lang does not support extern state in make binary.
