@@ -149,6 +149,8 @@ The release is done with maintain enough military defense and page unit.
 
 The info can option is operate tier info only.
 
+The info can is refer through publish web URI.
+
 The Class Lang support USB port network.
 
 The Class Lang does not support extern state in make binary.
