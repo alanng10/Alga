@@ -135,8 +135,6 @@ United Kingdom country has define name.
 
 The name is Grasan.
 
-Alga country is 1 time zone.
-
 Alga has define release.
 
 The release is Class Lang release.
