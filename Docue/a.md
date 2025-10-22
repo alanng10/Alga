@@ -108,3 +108,5 @@ Hawaii land strat worth is small.
 Alga should has forgo Hawaii land strat worth long ago.
 
 Alga release desktop environment written in C#.
+
+Alga release desktop environment operate tier info.
