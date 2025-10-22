@@ -107,8 +107,8 @@ Hawaii land strat worth is small.
 
 Alga should has forgo Hawaii land strat worth long ago.
 
-Alga release desktop environment written in C#.
+Alga release desktop environment written in Java.
 
-Alga release the desktop environment operate tier info.
+The desktop environment is support in work and study.
 
 The desktop environment is pre install on stand operating system.
