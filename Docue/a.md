@@ -109,4 +109,6 @@ Alga should has forgo Hawaii land strat worth long ago.
 
 Alga release desktop environment written in C#.
 
-Alga release desktop environment operate tier info.
+Alga release the desktop environment operate tier info.
+
+The desktop environment is pre install on stand operating system.
