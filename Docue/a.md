@@ -106,31 +106,3 @@ Alga should has forgo Alaska land worth long ago.
 Hawaii land strat worth is small.
 
 Alga should has forgo Hawaii land strat worth long ago.
-
-Alga country define name need to be 1 word, with first alpha capital.
-
-Alga country define name currently is too long.
-
-Alga country define name is too uneffective.
-
-Alga country has define name.
-
-The name is Praca.
-
-Alga country define name for govern is Praca.
-
-Alga country human has define name.
-
-The name is Pracan.
-
-Alga country name can mod to Praca.
-
-The mod is done with maintain enough military defense and page unit.
-
-Alga country inter has diploma.
-
-Alga country has diploma with United Kingdom country.
-
-United Kingdom country has define name.
-
-The name is Grasan.
