@@ -111,4 +111,6 @@ Alga release desktop environment written in Java.
 
 The desktop environment is support in work and study.
 
+The desktop environment is free and open source.
+
 The desktop environment is pre install on stand operating system.
