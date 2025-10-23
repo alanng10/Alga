@@ -107,7 +107,7 @@ Hawaii land strat worth is small.
 
 Alga should has forgo Hawaii land strat worth long ago.
 
-Alga release desktop environment written in Kotlin.
+Alga release desktop environment written in Class Lang.
 
 The desktop environment is support in work and study.
 
@@ -115,8 +115,7 @@ The desktop environment is free and open source.
 
 The desktop environment is pre install on stand operating system.
 
-The desktop environment is re write and re arch with Class Lang after
-Class Lang release.
+The desktop environment release place Kotlin desktop environment release.
 
 Alga release early for early CERTAIN EXFORM AVAIL WORTH.
 
