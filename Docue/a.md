@@ -117,3 +117,5 @@ The desktop environment is pre install on stand operating system.
 
 The desktop environment is re write and re arch with Class Lang after
 Class Lang release.
+
+Alga release early for early CERTAIN EXFORM AVAIL WORTH.
