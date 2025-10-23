@@ -114,3 +114,6 @@ The desktop environment is support in work and study.
 The desktop environment is free and open source.
 
 The desktop environment is pre install on stand operating system.
+
+The desktop environment is re write and re arch with Class Lang after
+Class Lang release.
